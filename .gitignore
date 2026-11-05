@@ -1,0 +1,5 @@
+# Keep secrets safe
+.env
+*.db
+__pycache__/
+*.__pycache__
